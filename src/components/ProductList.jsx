@@ -1,6 +1,6 @@
 import React from 'react'
 import allProduct from '../Utilis/allProduct'
-import Item from './item'
+import Item from './Item'
 
 const ProductList = (props) => {
   return (
